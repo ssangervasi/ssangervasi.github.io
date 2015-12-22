@@ -184,12 +184,11 @@
 	"buffers":
 	[
 		{
-			"contents": "<html",
+			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 5,
-				"line_ending": "Windows",
-				"name": "<html"
+				"buffer_size": 2138,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -200,10 +199,14 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 392.0,
-		"last_filter": "",
+		"height": 127.0,
+		"last_filter": "wrap",
 		"selected_items":
 		[
+			[
+				"wrap",
+				"Emmet: Wrap With Abbreviation"
+			],
 			[
 				"save al",
 				"File: Save All"
@@ -219,10 +222,6 @@
 			[
 				"class",
 				"Snippet: New Class"
-			],
-			[
-				"wrap",
-				"Word Wrap: Toggle"
 			],
 			[
 				"functio",
@@ -269,7 +268,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 400.0
+		"width": 512.0
 	},
 	"console":
 	{
@@ -330,6 +329,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"python-playground",
 			"LogBar",
 			"logMax",
 			"PBar",
@@ -457,27 +457,29 @@
 			[
 				{
 					"buffer": 0,
+					"file": "index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5,
+						"buffer_size": 2138,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5,
-								5
+								1564,
+								1564
 							]
 						],
 						"settings":
 						{
-							"auto_name": "<html",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 312.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -535,6 +537,10 @@
 		"selected_items":
 		[
 			[
+				"inde",
+				"index.html"
+			],
+			[
 				"ignore",
 				".gitignore"
 			],
@@ -564,9 +570,13 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "pyth",
+		"last_filter": "ht",
 		"selected_items":
 		[
+			[
+				"ht",
+				"B:\\Documents\\GitHub\\sagacious-octo-capsicum\\src\\html.sublime-workspace"
+			],
 			[
 				"pyth",
 				"B:\\Documents\\GitHub\\python-playground\\GridFiller\\grid-filler.sublime-workspace"
