@@ -8,9 +8,9 @@ Here are some of the projects I have floating around:
 
 ## Telefactor
 
-**Homepage**: http://github.com/telefactor/telefactor
+**Homepage**: <http://github.com/telefactor/telefactor>
 
-**Organization**: http://github.com/telefactor
+**Organization**: <http://github.com/telefactor>
 
 ### What's this?
 I created this game where people take turns writing code and testing code as a
@@ -20,9 +20,9 @@ It ends up feeling like a hackathon or game jam but smaller and with focused exp
 
 ## Textploration
 
-**Site:** http://textploration.herokuapp.com/
+**Site:** <http://textploration.herokuapp.com/>
 
-**Code:** https://github.com/ssangervasi/textploration
+**Code:** <https://github.com/ssangervasi/textploration>
 
 ### What's this?
 The goal of this project was to make a text-based adventure game as a web app.
